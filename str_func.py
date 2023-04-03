@@ -1,10 +1,10 @@
-def modified_str(str):
+def func_1(str):
     """ Функция , которая изменяет все буквы строки на заглавные """
     new_str = str.upper()
     print(new_str)
 
 
-modified_str("roma")
+func_1("roma")
 
 
 
